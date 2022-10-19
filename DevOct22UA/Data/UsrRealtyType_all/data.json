@@ -1,0 +1,64 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "0211f6fe-20f6-44f0-8db0-f8bb85ff4ace"
+        },
+        {
+          "SchemaColumnUId": "546492a6-e6f8-c2f4-12a2-1f193a30101c",
+          "Value": "П"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "3c171f9f-8ac2-4803-8b70-aa83597fddc9"
+        },
+        {
+          "SchemaColumnUId": "546492a6-e6f8-c2f4-12a2-1f193a30101c",
+          "Value": "Г"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5aadda98-3965-4b66-a9ca-c2aed44ea129"
+        },
+        {
+          "SchemaColumnUId": "546492a6-e6f8-c2f4-12a2-1f193a30101c",
+          "Value": "Д"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "7690bdd2-8961-4ee6-acf6-931a0cae47ec"
+        },
+        {
+          "SchemaColumnUId": "546492a6-e6f8-c2f4-12a2-1f193a30101c",
+          "Value": "К"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "f3e80ffe-911a-455b-b315-70657ccaa9d4"
+        },
+        {
+          "SchemaColumnUId": "546492a6-e6f8-c2f4-12a2-1f193a30101c",
+          "Value": "О"
+        }
+      ]
+    }
+  ]
+}
